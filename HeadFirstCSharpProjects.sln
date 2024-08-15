@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstConsoleApp", "MyFirstConsoleApp\MyFirstConsoleApp.csproj", "{EC06DE3E-4683-4182-A2BA-D210C50F8FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchGame", "MatchGame\MatchGame.csproj", "{6D35F052-17FA-4EFC-BA42-5DB7D70F786A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC06DE3E-4683-4182-A2BA-D210C50F8FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC06DE3E-4683-4182-A2BA-D210C50F8FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC06DE3E-4683-4182-A2BA-D210C50F8FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC06DE3E-4683-4182-A2BA-D210C50F8FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D35F052-17FA-4EFC-BA42-5DB7D70F786A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D35F052-17FA-4EFC-BA42-5DB7D70F786A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D35F052-17FA-4EFC-BA42-5DB7D70F786A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D35F052-17FA-4EFC-BA42-5DB7D70F786A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E4BEEC0-462D-42FC-80D2-335EF1E19FAF}
+	EndGlobalSection
+EndGlobal
