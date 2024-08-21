@@ -4,9 +4,9 @@ using System.Windows.Threading;
 
 namespace MatchGame
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    //Add combo counter
+    // Add endless Mode
+    // Add countdown timer
     public partial class MainWindow : Window
     {
         DispatcherTimer timer = new DispatcherTimer();
